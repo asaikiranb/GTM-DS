@@ -8,7 +8,7 @@ import numpy as np
 # Page Configuration
 # ============================================
 st.set_page_config(
-    page_title="Data Intelligence Co-op",
+    page_title="Sales Analytics Dashboard",
     page_icon=None,
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -371,12 +371,12 @@ AXIS_TICKFONT = dict(color=theme['chart_text'], size=12)
 st.markdown(f"""
 <div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 0 0 16px 0;">
     <div>
-        <span class="dashboard-title">Data Intelligence Co-op</span>
+        <span class="dashboard-title">Sales Analytics Dashboard</span>
         <p class="dashboard-subtitle">Comprehensive sales data analysis across all regions and products</p>
     </div>
     <div style="text-align: right; max-width: 450px;">
         <p style="font-size: 0.95rem; color: {theme['text_secondary']}; font-weight: 500; line-height: 1.4; opacity: 0.9; margin: 0;">
-            Built by Saikiran Babu Annangi for the Data Platform Graduate Intern (Summer 2026) at Sigma Computing
+            Data Intelligence Co-op
         </p>
     </div>
 </div>

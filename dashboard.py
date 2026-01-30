@@ -376,7 +376,7 @@ st.markdown(f"""
     </div>
     <div style="text-align: right; max-width: 450px;">
         <p style="font-size: 0.95rem; color: {theme['text_secondary']}; font-weight: 500; line-height: 1.4; opacity: 0.9; margin: 0;">
-            Built by Saikiran Babu Annangi for the Data Intelligence Co-op at Nokia
+            Built by Saikiran Babu Annangi for the GTM Data Scientist role at Clay
         </p>
     </div>
 </div>
